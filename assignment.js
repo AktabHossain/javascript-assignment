@@ -1,4 +1,4 @@
-//github link: https://github.com/AktabHossain/javascript-assignment
+// https://github.com/AktabHossain/javascript-assignment
 
 
 
